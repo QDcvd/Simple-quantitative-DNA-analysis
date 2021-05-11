@@ -38,6 +38,7 @@
 ![imgcrop2](https://user-images.githubusercontent.com/54057111/117830891-a35c9100-b2a6-11eb-9236-4d6b5cdaf52c.png)
 
 计算出条带亮度的ex1data3.txt文件
+
 计算出条带亮度并画图的jpg文件(含折线图以及聚类算法分类出的点状DNA坐标图)
 
 ![全局平均](https://user-images.githubusercontent.com/54057111/117830744-82943b80-b2a6-11eb-9d8a-b3c4996e622d.jpg)
