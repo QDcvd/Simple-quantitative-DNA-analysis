@@ -27,6 +27,7 @@
 ![Contours0](https://user-images.githubusercontent.com/54057111/117830817-9344b180-b2a6-11eb-8db9-09ea848e3f00.jpg)
 ![Contours1](https://user-images.githubusercontent.com/54057111/117830820-9344b180-b2a6-11eb-8fb0-0e5072976929.jpg)
 ![Contours-1](https://user-images.githubusercontent.com/54057111/117830822-93dd4800-b2a6-11eb-81b0-a607e3bff462.jpg)
+
 经过图像增强的单个条带的png文件
 
 ![blurred](https://user-images.githubusercontent.com/54057111/117830920-abb4cc00-b2a6-11eb-8a38-ffb34ddaf9f6.png)
@@ -35,6 +36,7 @@
 ![imgcrop0](https://user-images.githubusercontent.com/54057111/117830886-a22b6400-b2a6-11eb-92a3-ace1e524e30f.png)
 ![imgcrop1](https://user-images.githubusercontent.com/54057111/117830888-a2c3fa80-b2a6-11eb-8737-0d54060649a0.png)
 ![imgcrop2](https://user-images.githubusercontent.com/54057111/117830891-a35c9100-b2a6-11eb-9236-4d6b5cdaf52c.png)
+
 计算出条带亮度的ex1data3.txt文件
 计算出条带亮度并画图的jpg文件(含折线图以及聚类算法分类出的点状DNA坐标图)
 
