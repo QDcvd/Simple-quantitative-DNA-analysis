@@ -25,7 +25,9 @@
 # 输出
 类别：
 含有识别出条带轮廓的csv坐标文件
+
 算出坐标内的RGB数值的csv文件
+
 识别出轮廓效果的jpg文件
 
 ![Contours2](https://user-images.githubusercontent.com/54057111/117839926-41a02500-b2ae-11eb-9cad-c4076892e30b.jpg)
