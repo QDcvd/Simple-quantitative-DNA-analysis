@@ -37,7 +37,7 @@
 ![Contours1](https://user-images.githubusercontent.com/54057111/117839937-44027f00-b2ae-11eb-93e6-5da32e67e38e.jpg)
 ![Contours-1](https://user-images.githubusercontent.com/54057111/117839940-44027f00-b2ae-11eb-98d6-c0836f4f809f.jpg)
 
-经过图像增强的单个条带的png文件
+经过图像增强（图像增强只为获取条带轮廓坐标点）的单个条带的png文件
 
 ![blurred](https://user-images.githubusercontent.com/54057111/117840036-5e3c5d00-b2ae-11eb-958c-fd37acd5b40f.png)
 ![imgcrop2](https://user-images.githubusercontent.com/54057111/117840005-57154f00-b2ae-11eb-975b-e8a6694e6d79.png)
